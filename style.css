@@ -1,0 +1,45 @@
+h1 {
+    color: red;
+    width: 344px;
+}
+
+.Name {
+    color: blue;
+}
+
+.Sat {
+    color: rgb(221, 138, 152);
+}
+
+.Class {
+    color: gray;
+}
+
+.B {
+    color: orange;
+}
+
+.gen {
+    color: aqua;
+}
+
+.male {
+    color: rgb(194, 30, 58);
+}
+
+.re {
+    color: blueviolet;
+}
+
+.si {
+    color: brown;
+}
+
+body {
+    background-image: url('image.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 300px;
+    width: 300pxS;
+
+}
